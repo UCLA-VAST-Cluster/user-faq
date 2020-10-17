@@ -51,5 +51,9 @@ The admin will to reply this issue after all above requests are processed.
     + Login to `cdsc0.cs.ucla.edu`, run `yppasswd`, and **CHANGE YOUR PASSWORD**
     + **Optional** Setup SSH key
     + **Optional** Setup local GUI environment
+2. [ ] **Mandatory** Check your container(s)
+    + You may login to your container from `cdsc0.cs.ucla.edu` only
+    + To login to a Ubuntu container on `nx`, do `ssh ux`. For example, if you have a Ubuntu container on `n7`, do `ssh u7`.
+    + To login to a CentOS container on `nx`, do `ssh cx`. For example, if you have a CentOS container on `n7`, do `ssh c7`.
 2. [ ] **Optional** Comment under this issue if you have any questions
 3. [ ] **Mandatory** Close this issue when you are all set
