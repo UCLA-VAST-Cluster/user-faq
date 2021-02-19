@@ -29,9 +29,9 @@ This issue is used for tracking the progress of setting you up in our cluster. P
   
 **2. Information for applying a container.**
   + How many server nodes do you need?
-    + `n0`\~`n7` and `n10`\~`n21` available, some of them might be down temporarily
-    + `n1` and `n21` might be rebooted without notice due to potential FPGA stuck
-  + For each node, do you want a *CentOS 7*, *Ubuntu 16.04*, or *Ubuntu 18.04* container?
+    + `n0`\~`n7` and `n10`\~`n23` available, some of them might be down temporarily
+    + `n1` and `n21`\~`n23` might be rebooted without notice due to potential FPGA stuck
+  + For each node, do you want a *CentOS 7*, or *Ubuntu 18.04* container?
     + Ubuntu is generally friendlier to use and better supported by most software
   + **Optional** Which packages would you like to be pre-installed in each container?
     + We will execute `apt install <packages>` or `yum install <packages>` before creating the containers
