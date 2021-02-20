@@ -48,7 +48,7 @@ The admin will to reply this issue after all above requests are processed.
 
 1. [ ] **Mandatory** Check your NIS account
     + You will receive your temporary password via the email you provided.
-    + Login to `cdsc0.cs.ucla.edu`, run `yppasswd`, and **CHANGE YOUR PASSWORD**
+    + Login to `cdsc0.cs.ucla.edu` via SSH, run `yppasswd`, and **CHANGE YOUR PASSWORD**
     + **Optional** Setup SSH key
     + **Optional** Setup local GUI environment
 2. [ ] **Mandatory** Read the following Cluster User Guide
